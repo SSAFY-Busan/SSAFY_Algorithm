@@ -17,13 +17,17 @@
   - 개인 저장소에 업로드는 자유
   - 😈주석 필수!!
 
+
+
 - 코드를 제출하지 못했을 경우
   ```
   - 문제에 대한 이해, 생각해 본 알고리즘 개념을 스터디 시간에 발표하기
   - 적절한 사유없이 코드를 제출하지 않았을 경우 벌금 부여 (1문제당 3000원)
   ```
   
-## 문서 구조
+  
+  
+## 📒 문서 구조
   
 
     ├──BOJ	
@@ -38,7 +42,7 @@
   
   
   
-## 스터디 인원 
+## 👪 스터디 인원 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tbvjdkrak9)](https://solved.ac/tbvjdkrak9)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=roywnsdud)](https://solved.ac/roywnsdud)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj20071)](https://solved.ac/jhj20071)
