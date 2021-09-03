@@ -25,6 +25,16 @@
   
 ## 문서 구조
   
+
+    ├──BOJ	
+    │   ├──stack (스택)	
+    │   ├──queue (큐)	
+    │   └──bfs (너비 우선 탐색)	
+    ├──SWEA
+    └──Programmers
+ 
+ 
+  
   
   
   
