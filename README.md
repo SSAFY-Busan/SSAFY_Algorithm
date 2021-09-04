@@ -127,6 +127,7 @@
 | BOJ 1475  |       [방 번호](https://www.acmicpc.net/problem/1475)        |  실버5  |
 | BOJ 1874  |      [스택 수열](https://www.acmicpc.net/problem/1874)       |  실버3  |
 | BOJ 9012  |         [괄호](https://www.acmicpc.net/problem/9012)         |  실버4  |
+| BOJ 10157 |      [자리배정](https://www.acmicpc.net/problem/10157)       |  실버4  |
 | BOJ 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |  실버2  |
 | BOJ 14563 |       [완전수](https://www.acmicpc.net/problem/14563)        | 브론즈1 |
-| BOJ 10157 |      [자리배정](https://www.acmicpc.net/problem/10157)       |  실버4  |
+
