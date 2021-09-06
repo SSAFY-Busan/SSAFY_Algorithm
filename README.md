@@ -11,11 +11,20 @@
   - [BOJ 그룹](https://www.acmicpc.net/group/12366) : 문제 리스트 제공 / 라이벌 등록 후 승부욕 올리기
   - [Github](https://github.com/SSAFY-Busan)
 
+
+
+## 📈 목표
+
+- 플래티넘 달성하기
+- 코딩테스트 통과하기
+
+
+
 ## 🏆 코드 작성
 - 코드 제출은 스터디 1시간 전까지 제출 가능
   - Github 공동 저장소에 업로드
   - 개인 저장소에 업로드는 자유
-  - 😈주석 필수!!
+  - 😈주석 필수!!😈
 
 
 
@@ -24,8 +33,10 @@
   - 문제에 대한 이해, 생각해 본 알고리즘 개념을 스터디 시간에 발표하기
   - 적절한 사유없이 코드를 제출하지 않았을 경우 벌금 부여 (1문제당 3000원)
   ```
-  
-  
+
+
+
+
 
 ## 👪 스터디 인원 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tbvjdkrak9)](https://solved.ac/tbvjdkrak9)
@@ -34,7 +45,9 @@
 
 
 
-## Solved Problems
+
+
+## 📃 Solved Problems
 
 ### 🎈 Week 1
 
@@ -48,6 +61,8 @@
 | BOJ 2217 |    [로프](https://www.acmicpc.net/problem/2217)     |  실버4  |
 | BOJ 2563 |   [색종이](https://www.acmicpc.net/problem/2563)    |  실버5  |
 | BOJ 2693 | [N번째 큰 수](https://www.acmicpc.net/problem/2693) |  실버5  |
+
+
 
 
 
@@ -79,6 +94,8 @@
 
 
 
+
+
 ### 🎈Week 3
 
 #### [📆 21.08.30](https://www.acmicpc.net/group/workbook/view/12366/37083)
@@ -107,15 +124,16 @@
 
 
 
+
+
 ### 🎈Week 4
 
 #### [📆 21.09.07](https://www.acmicpc.net/group/workbook/view/12366/37085)
-|   문제    |                             제목                             | Rank  |
-| :-------: | :----------------------------------------------------------: | :---: |
-| BOJ 1475  |       [방 번호](https://www.acmicpc.net/problem/1475)        | 실버5 |
-| BOJ 1874  |      [스택 수열](https://www.acmicpc.net/problem/1874)       | 실버3 |
-| BOJ 9012  |         [괄호](https://www.acmicpc.net/problem/9012)         | 실버4 |
-| BOJ 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | 실버2 |
-|           |                                                              |       |
-|           |                                                              |       |
-
+|   문제    |                             제목                             |  Rank   |
+| :-------: | :----------------------------------------------------------: | :-----: |
+| BOJ 1475  |       [방 번호](https://www.acmicpc.net/problem/1475)        |  실버5  |
+| BOJ 1874  |      [스택 수열](https://www.acmicpc.net/problem/1874)       |  실버3  |
+| BOJ 9012  |         [괄호](https://www.acmicpc.net/problem/9012)         |  실버4  |
+| BOJ 10157 |      [자리배정](https://www.acmicpc.net/problem/10157)       |  실버4  |
+| BOJ 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |  실버2  |
+| BOJ 14563 |       [완전수](https://www.acmicpc.net/problem/14563)        | 브론즈1 |
