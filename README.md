@@ -53,14 +53,14 @@
 
 #### [📆 21.08.19](https://www.acmicpc.net/group/workbook/view/12366/37080)
 
-|   문제   |                        제목                         |  Rank   |
-| :------: | :-------------------------------------------------: | :-----: |
-| BOJ 1110 |                    더하기 사이클                    | 브론즈1 |
-| BOJ 1546 |    [평균](https://www.acmicpc.net/problem/1546)     | 브론즈1 |
-| BOJ 1789 |  [수들의 합](https://www.acmicpc.net/problem/1789)  |  실버5  |
-| BOJ 2217 |    [로프](https://www.acmicpc.net/problem/2217)     |  실버4  |
-| BOJ 2563 |   [색종이](https://www.acmicpc.net/problem/2563)    |  실버5  |
-| BOJ 2693 | [N번째 큰 수](https://www.acmicpc.net/problem/2693) |  실버5  |
+|   문제   |                         제목                          |  Rank   |
+| :------: | :---------------------------------------------------: | :-----: |
+| BOJ 1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110) | 브론즈1 |
+| BOJ 1546 |     [평균](https://www.acmicpc.net/problem/1546)      | 브론즈1 |
+| BOJ 1789 |   [수들의 합](https://www.acmicpc.net/problem/1789)   |  실버5  |
+| BOJ 2217 |     [로프](https://www.acmicpc.net/problem/2217)      |  실버4  |
+| BOJ 2563 |    [색종이](https://www.acmicpc.net/problem/2563)     |  실버5  |
+| BOJ 2693 |  [N번째 큰 수](https://www.acmicpc.net/problem/2693)  |  실버5  |
 
 
 
