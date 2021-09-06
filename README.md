@@ -51,7 +51,7 @@
 
 ### 🎈 Week 1
 
-#### [📆 21.08.19](https://www.acmicpc.net/group/workbook/view/12366/37080)
+#### [📆 21.08.19](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/210819)
 
 |   문제   |                         제목                          |  Rank   |
 | :------: | :---------------------------------------------------: | :-----: |
@@ -68,7 +68,7 @@
 
 ### 🎈 Week 2
 
-#### [📆 21.08.23](https://www.acmicpc.net/group/workbook/view/12366/37081)
+#### [📆 21.08.23](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/210823)
 
 |   문제    |                           제목                            | Rank  |
 | :-------: | :-------------------------------------------------------: | :---: |
@@ -81,7 +81,7 @@
 
 
 
-#### [📆 21.08.26](https://www.acmicpc.net/group/workbook/view/12366/37082)
+#### [📆 21.08.26](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/210826)
 
 |   문제    |                            제목                            | Rank  |
 | :-------: | :--------------------------------------------------------: | :---: |
@@ -98,7 +98,7 @@
 
 ### 🎈Week 3
 
-#### [📆 21.08.30](https://www.acmicpc.net/group/workbook/view/12366/37083)
+#### [📆 21.08.30](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/210830)
 
 |   문제    |                           제목                           |  Rank   |
 | :-------: | :------------------------------------------------------: | :-----: |
@@ -111,7 +111,7 @@
 
 
 
-#### [📆 21.09.02](https://www.acmicpc.net/group/workbook/view/12366/37084)
+#### [📆 21.09.02](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/210902)
 
 |   문제    |                          제목                          | Rank  |
 | :-------: | :----------------------------------------------------: | :---: |
@@ -128,7 +128,7 @@
 
 ### 🎈Week 4
 
-#### [📆 21.09.07](https://www.acmicpc.net/group/workbook/view/12366/37085)
+#### [📆 21.09.07](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/210907)
 |   문제    |                             제목                             |  Rank   |
 | :-------: | :----------------------------------------------------------: | :-----: |
 | BOJ 1475  |       [방 번호](https://www.acmicpc.net/problem/1475)        |  실버5  |
