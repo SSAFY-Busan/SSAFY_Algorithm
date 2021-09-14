@@ -155,7 +155,7 @@
 
 
 ### 🎈Week 5
-#### [📆 21.09.13]()
+#### [📆 21.09.13](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/210913)
 |   문제    |                           제목                            |  Rank  |
 | :-------: | :-------------------------------------------------------: | :----: |
 | BOJ_1966  |     [프린터 큐](https://www.acmicpc.net/problem/1966)     | 실버 3 |
@@ -167,12 +167,12 @@
 
 
 
-#### [📆 21.09.16]()
-| 문제 | 제목 | Rank |
-| :--: | :--: | :--: |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+#### [📆 21.09.16](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/210916)
+|   문제   |                          제목                          |  Rank  |
+| :------: | :----------------------------------------------------: | :----: |
+| BOJ_1302 |   [베스트셀러](https://www.acmicpc.net/problem/1302)   | 실버 4 |
+| BOJ_1347 |  [미로 만들기](https://www.acmicpc.net/problem/1347)   | 실버 4 |
+| BOJ_1654 |  [랜선 자르기](https://www.acmicpc.net/problem/1654)   | 실버 3 |
+| BOJ_1920 |    [수 찾기](https://www.acmicpc.net/problem/1920)     | 실버 4 |
+| BOJ_2606 |    [바이러스](https://www.acmicpc.net/problem/2606)    | 실버3  |
+| BOJ_9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버3  |
