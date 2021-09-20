@@ -197,14 +197,14 @@
 
 #### [📆 21.09.23]()
 
-| 문제 | 제목 | Rank |
-| :--: | :--: | :--: |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+|   문제    |                           제목                           |  Rank  |
+| :-------: | :------------------------------------------------------: | :----: |
+| BOJ_1260  |    [DFS와 BFS](https://www.acmicpc.net/problem/1260)     | 실버 2 |
+| BOJ_1325  |  [효율적인 해킹](https://www.acmicpc.net/problem/1325)   | 실버 2 |
+| BOJ_1449  |   [수리공 항승](https://www.acmicpc.net/problem/1449)    | 실버3  |
+| BOJ_3273  |    [두 수의 합](https://www.acmicpc.net/problem/3273)    | 실버3  |
+| BOJ_10546 | [배부른 마라토너](https://www.acmicpc.net/problem/10546) | 실버4  |
+| BOJ_11653 |   [소인수 분해](https://www.acmicpc.net/problem/11653)   | 실버4  |
+| BOJ_13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | 실버4  |
+| BOJ_14425 |   [문자열 집합](https://www.acmicpc.net/problem/14425)   | 실버3  |
+| BOJ_18870 |    [좌표 압축](https://www.acmicpc.net/problem/18870)    | 실버2  |
