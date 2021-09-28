@@ -180,8 +180,8 @@
 | BOJ_1347 |  [미로 만들기](https://www.acmicpc.net/problem/1347)   | 실버 4 |
 | BOJ_1654 |  [랜선 자르기](https://www.acmicpc.net/problem/1654)   | 실버 3 |
 | BOJ_1920 |    [수 찾기](https://www.acmicpc.net/problem/1920)     | 실버 4 |
-| BOJ_2606 |    [바이러스](https://www.acmicpc.net/problem/2606)    | 실버3  |
-| BOJ_9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버3  |
+| BOJ_2606 |    [바이러스](https://www.acmicpc.net/problem/2606)    | 실버 3 |
+| BOJ_9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 실버 3 |
 
 
 
@@ -201,39 +201,39 @@
 | :-------: | :------------------------------------------------------: | :----: |
 | BOJ_1260  |    [DFS와 BFS](https://www.acmicpc.net/problem/1260)     | 실버 2 |
 | BOJ_1325  |  [효율적인 해킹](https://www.acmicpc.net/problem/1325)   | 실버 2 |
-| BOJ_1449  |   [수리공 항승](https://www.acmicpc.net/problem/1449)    | 실버3  |
-| BOJ_3273  |    [두 수의 합](https://www.acmicpc.net/problem/3273)    | 실버3  |
-| BOJ_10546 | [배부른 마라토너](https://www.acmicpc.net/problem/10546) | 실버4  |
-| BOJ_11653 |   [소인수 분해](https://www.acmicpc.net/problem/11653)   | 실버4  |
-| BOJ_13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | 실버4  |
-| BOJ_14425 |   [문자열 집합](https://www.acmicpc.net/problem/14425)   | 실버3  |
-| BOJ_18870 |    [좌표 압축](https://www.acmicpc.net/problem/18870)    | 실버2  |
+| BOJ_1449  |   [수리공 항승](https://www.acmicpc.net/problem/1449)    | 실버 3 |
+| BOJ_3273  |    [두 수의 합](https://www.acmicpc.net/problem/3273)    | 실버 3 |
+| BOJ_10546 | [배부른 마라토너](https://www.acmicpc.net/problem/10546) | 실버 4 |
+| BOJ_11653 |   [소인수 분해](https://www.acmicpc.net/problem/11653)   | 실버 4 |
+| BOJ_13305 |     [주유소](https://www.acmicpc.net/problem/13305)      | 실버 4 |
+| BOJ_14425 |   [문자열 집합](https://www.acmicpc.net/problem/14425)   | 실버 3 |
+| BOJ_18870 |    [좌표 압축](https://www.acmicpc.net/problem/18870)    | 실버 2 |
 
 
 
 ### 🎈Week 7
 
-#### 📆 21.09.27
+#### [📆 21.09.27](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/210927)
 
-|   문제    |                         제목                          | Rank  |
-| :-------: | :---------------------------------------------------: | :---: |
-| BOJ_1406  |    [에디터](https://www.acmicpc.net/problem/1406)     | 실버3 |
-| BOJ_1541  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | 실버2 |
-| BOJ_1926  |     [그림](https://www.acmicpc.net/problem/1926)      | 실버1 |
-| BOJ_2178  |   [미로 탐색](https://www.acmicpc.net/problem/2178)   | 실버1 |
-| BOJ_9461  |  [파도반 수열](https://www.acmicpc.net/problem/9461)  | 실버3 |
-| BOJ_10799 |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | 실버3 |
+|   문제    |                         제목                          |  Rank  |
+| :-------: | :---------------------------------------------------: | :----: |
+| BOJ_1406  |    [에디터](https://www.acmicpc.net/problem/1406)     | 실버 3 |
+| BOJ_1541  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | 실버 2 |
+| BOJ_1926  |     [그림](https://www.acmicpc.net/problem/1926)      | 실버 1 |
+| BOJ_2178  |   [미로 탐색](https://www.acmicpc.net/problem/2178)   | 실버 1 |
+| BOJ_9461  |  [파도반 수열](https://www.acmicpc.net/problem/9461)  | 실버 3 |
+| BOJ_10799 |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | 실버 3 |
 
 
 
-#### 📆 21.09.30
+#### [📆 21.09.30](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/210930)
 
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+|   문제    |                         제목                          |  Rank  |
+| :-------: | :---------------------------------------------------: | :----: |
+| BOJ_1012  |  [유기농 배추](https://www.acmicpc.net/problem/1012)  | 실버 2 |
+| BOJ_1912  |    [연속합](https://www.acmicpc.net/problem/1912)     | 실버 2 |
+| BOJ_2805  |  [나무 자르기](https://www.acmicpc.net/problem/2805)  | 실버 3 |
+| BOJ_7562  | [나이트의 이동](https://www.acmicpc.net/problem/7562) | 실버 2 |
+| BOJ_7576  |    [토마토](https://www.acmicpc.net/problem/7576)     | 실버 1 |
+| BOJ_14502 |    [연구소](https://www.acmicpc.net/problem/14502)    | 골드 5 |
 
