@@ -41,9 +41,7 @@
 ## 👪 스터디 인원 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tbvjdkrak9)](https://solved.ac/tbvjdkrak9)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=roywnsdud)](https://solved.ac/roywnsdud)
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj20071)](https://solved.ac/jhj20071)
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nasa0939)](https://solved.ac/nasa0939)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj20071)](https://solved.ac/jhj20071)[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nasa0939)](https://solved.ac/nasa0939)
 
 
 
