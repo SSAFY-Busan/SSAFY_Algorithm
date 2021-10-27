@@ -1,7 +1,7 @@
 # SSAFY_Algorithm
 
 ## 📆 스터디 계획
-- 인원 : [김도훈](https://github.com/DHKim95), [박준영](https://github.com/JUNYOUNG31), [전호정](https://github.com/hojeong33)
+- 인원 : [김도훈](https://github.com/DHKim95), [박준영](https://github.com/JUNYOUNG31), [전호정](https://github.com/hojeong33), [김태현](https://github.com/xogxog)
 - 문제 : [solved.ac](solved.ac)를 참고하여 백준 문제 선정 (최대한 배운것 활용하여 문제풀기)
 - 모임 요일 및 시간 : 월요일 20시, 목요일 20시 (2시간)
 
@@ -42,6 +42,8 @@
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tbvjdkrak9)](https://solved.ac/tbvjdkrak9)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=roywnsdud)](https://solved.ac/roywnsdud)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj20071)](https://solved.ac/jhj20071)
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nasa0939)](https://solved.ac/nasa0939)
 
 
 
