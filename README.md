@@ -326,3 +326,28 @@
 | BOJ_6603  |      [로또](https://www.acmicpc.net/problem/6603)       | 실버 2 |
 | BOJ_15903 | [카드 합체 놀이](https://www.acmicpc.net/problem/15903) | 실버 2 |
 
+
+
+### 🎈Week 12
+
+#### [📆 21.11.01]()
+
+- 프로그래머스 스택&큐 문제 풀기
+|         문제         |                             제목                             |  Rank   |
+| :------------------: | :----------------------------------------------------------: | :-----: |
+| 프로그래머스 스택&큐 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Level 2 |
+| 프로그래머스 스택&큐 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Level 2 |
+| 프로그래머스 스택&큐 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | Level 2 |
+| 프로그래머스 스택&큐 | [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | Level 2 |
+
+
+
+#### [📆 21.11.04]()
+
+- 프로그래머스 정렬 문제 풀기
+
+|       문제        |                             제목                             |  Rank   |
+| :---------------: | :----------------------------------------------------------: | :-----: |
+| 프로그래머스 정렬 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) | Level 1 |
+| 프로그래머스 정렬 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | Level 2 |
+| 프로그래머스 정렬 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | Level 2 |
