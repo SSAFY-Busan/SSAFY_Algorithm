@@ -373,7 +373,7 @@
 
 
 
-#### [📆 21.11.11]()
+#### [📆 21.11.11](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/211111)
 
 |        문제         |                             제목                             |  Rank   |
 | :-----------------: | :----------------------------------------------------------: | :-----: |
@@ -385,7 +385,7 @@
 
 ### 🎈Week 14
 
-#### [📆 21.11.15]()
+#### [📆 21.11.15](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/211115)
 
 - 프로그래머스 완전탐색 문제 풀기
 
@@ -397,7 +397,7 @@
 
 
 
-#### [📆 21.11.18]()
+#### [📆 21.11.18](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/211118)
 
 - 깊이/너비 우선탐색 문제 풀기
 
@@ -407,3 +407,26 @@
 | 프로그래머스 DFS/BFS | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | Level 3 |
 
 <br>
+
+### 🎈Week 15
+
+#### [📆 21.12.06](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/211206)
+
+- 깊이/너비 우선탐색 문제 풀기
+
+|         문제         |                             제목                             |  Rank   |
+| :------------------: | :----------------------------------------------------------: | :-----: |
+| 프로그래머스 DFS/BFS | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | Level 3 |
+| 프로그래머스 DFS/BFS | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | Level 3 |
+
+
+
+#### [📆 21.12.09](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/211209)
+
+- 동적계획법(DP) 문제 풀기
+
+|              문제              |                             제목                             |  Rank   |
+| :----------------------------: | :----------------------------------------------------------: | :-----: |
+|    프로그래머스 동적계획법     | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | Level 3 |
+| 프로그래머스 DFS/BFS동적계획법 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | Level 3 |
+
