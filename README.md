@@ -434,7 +434,7 @@
 
 ### 🎈Week 16
 
-#### [📆 21.12.13]()
+#### [📆 21.12.13](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/211213)
 
 - 동적계획법(DP) 문제 풀기
 
@@ -445,20 +445,20 @@
 
 
 
-#### [📆 21.12.16]()
+#### [📆 21.12.16](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/211216)
 
 - 해시 문제 풀기
 
 |       문제        |                             제목                             |  Rank   |
 | :---------------: | :----------------------------------------------------------: | :-----: |
-| 프로그래머스 해시 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Level 2 |
-| 프로그래머스 해시 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | Level 3 |
+| 프로그래머스 해시 | [전화번호목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Level 2 |
+| 프로그래머스 해시 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Level 3 |
 
 
 
 ### 🎈Week 17
 
-#### [📆 21.12.20]()
+#### [📆 21.12.20](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/211220)
 
 - 해시 & 그래프 문제 풀기
 
@@ -469,7 +469,7 @@
 
 
 
-#### [📆 21.12.23]()
+#### [📆 21.12.23](https://github.com/SSAFY-Busan/SSAFY_Algorithm/tree/main/211223)
 
 - 그래프 & 이분탐색 문제 풀기
 
